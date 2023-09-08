@@ -20,6 +20,9 @@ class HomeController extends Controller
         if($usertype=='1'){
             return view('admin.home');
         }
+        else if($usertype == '2'){
+            return view('design.portfolio');
+        }
         else{
             return view('home.portfolio');
         }

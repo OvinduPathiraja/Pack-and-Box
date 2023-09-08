@@ -115,66 +115,7 @@
                     </div>
                 </div>
             </div>
-            <!-- </div> -->
-
-            <!-- <section class="site-section">
-                <div class="container">
-                    <div class="row">
-                        <div class="col" data-aos="fade-in" data-aos-delay="0">
-                            <img
-                                src="images/clients-05.svg"
-                                alt="Image"
-                                class="img-fluid"
-                            />
-                        </div>
-                        <div
-                            class="col"
-                            data-aos="fade-in"
-                            data-aos-delay="100"
-                        >
-                            <img
-                                src="images/clients-02.svg"
-                                alt="Image"
-                                class="img-fluid"
-                            />
-                        </div>
-                        <div
-                            class="col"
-                            data-aos="fade-in"
-                            data-aos-delay="200"
-                        >
-                            <img
-                                src="images/clients-03.svg"
-                                alt="Image"
-                                class="img-fluid"
-                            />
-                        </div>
-                        <div
-                            class="col"
-                            data-aos="fade-in"
-                            data-aos-delay="300"
-                        >
-                            <img
-                                src="images/clients-01.svg"
-                                alt="Image"
-                                class="img-fluid"
-                            />
-                        </div>
-                        <div
-                            class="col"
-                            data-aos="fade-in"
-                            data-aos-delay="400"
-                        >
-                            <img
-                                src="images/clients-04.svg"
-                                alt="Image"
-                                class="img-fluid"
-                            />
-                        </div>
-                    </div>
-                </div>
-            </section> -->
-                        <div class="site-section" id="about-section">
+            <div class="site-section" id="about-section">
                 <div class="container">
                     <div class="row mb-5">
                         <div
@@ -205,48 +146,6 @@
                                         30 years of experience transforming the print packaging industry, print&box continues to be a leading service provider for local and global brands.
                                     </p>
                                 </div>
-                                <!-- <div class="col-md-12 mb-md-5 mb-0 col-lg-6">
-                                    <div class="unit-4">
-                                        <div class="unit-4-icon mr-4 mb-3">
-                                            <span
-                                                class="text-primary icon-phonelink"
-                                            ></span>
-                                        </div>
-                                        <div>
-                                            <h3>
-                                                Web &amp; Mobile Specialties
-                                            </h3>
-                                            <p>
-                                                Lorem ipsum dolor sit amet
-                                                consectetur adipisicing elit.
-                                                Perferendis quis consect.
-                                            </p>
-                                            <p class="mb-0">
-                                                <a href="#">Learn More</a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div> -->
-                                <!-- <div class="col-md-12 mb-md-5 mb-0 col-lg-6">
-                                    <div class="unit-4">
-                                        <div class="unit-4-icon mr-4 mb-3">
-                                            <span
-                                                class="text-primary icon-extension"
-                                            ></span>
-                                        </div>
-                                        <div>
-                                            <h3>Intuitive Thinkers</h3>
-                                            <p>
-                                                Lorem ipsum dolor sit amet
-                                                consectetur adipisicing elit.
-                                                Perferendis quis.
-                                            </p>
-                                            <p class="mb-0">
-                                                <a href="#">Learn More</a>
-                                            </p>
-                                        </div>
-                                    </div>
-                                </div> -->
                             </div>
                         </div>
                     </div>

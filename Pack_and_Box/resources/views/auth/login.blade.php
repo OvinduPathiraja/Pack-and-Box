@@ -48,6 +48,11 @@
                 <p>email ( admin@gmail.com )</p>
                 <p>password ( pass1234)`</p>
             </div>
+            <div class="block mt-4">
+                <p>Production team access :</p>
+                <p>email ( product@gmail.com )</p>
+                <p>password ( pass1234)`</p>
+            </div>
         </form>
     </x-authentication-card>
 </x-guest-layout>
